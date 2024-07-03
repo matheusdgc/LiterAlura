@@ -30,3 +30,4 @@ Para rodar esse projeto, você vai precisar adicionar as seguintes variáveis de
 
  Gutemdex (https://gutendex.com/)
 
+<p><img src="badge literalura.png"></p>
